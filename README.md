@@ -7,7 +7,7 @@ A simple script to solve the http://flaws.cloud lab by enumerating AWS S3 bucket
 1. **Clone the repository**
    ```bash
    https://github.com/debanandsingha/aws_s3_enum.git
-   cd awsS3_enum
+   cd aws_s3_enum
    ```
 
 2. **Create virtual environment**
